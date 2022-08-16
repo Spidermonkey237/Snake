@@ -1,4 +1,4 @@
-# Snake (PiS, SoSe 2021)
+# Snake Game
 **Autor:** Yann Ewo
 ## Kurzbeschreibung
 **Snake** ist ein Spiel, dessen Prinzip einfach darin besteht, so viele Früchte wie möglich zu essen. Genauer gesagt geht es um eine Schlange, deren Ziel es ist, durch den Verzehr von Früchten, die überall auf dem Spielplatz auftauchen, so lange wie möglich zu werden. Dazu muss die Schlange vermeiden, gegen die Ränder des Feldes und gegen sich selbst zu stoßen, sonst ist es **GAMEOVER**.
